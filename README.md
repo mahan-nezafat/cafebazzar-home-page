@@ -1,5 +1,5 @@
-# cafebazzar-landing-page
-cafebazzar.ir responsive landing page with HTML,CSS-FLEXBOX,CSS-GRID,JS
+# cafebazzar-home-page
+cafebazzar.ir responsive home page with HTML,CSS-FLEXBOX,CSS-GRID,JS
 
 # description 
 
